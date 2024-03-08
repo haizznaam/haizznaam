@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **Github Contributions**
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 **Frameworks**
 
